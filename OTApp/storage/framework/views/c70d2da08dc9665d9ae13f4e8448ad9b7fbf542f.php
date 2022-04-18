@@ -1,0 +1,13 @@
+    <!--<script src="<?php echo e(asset('trade/js/buysell.js')); ?> "></script>-->
+    <script src="<?php echo e(asset('trade/amc/core.js')); ?> "></script>
+    <script src="<?php echo e(asset('trade/amc/charts.js')); ?>"></script>
+    <script src="<?php echo e(asset('trade/amc/dark.html')); ?>"></script>
+    <script src="<?php echo e(asset('trade/amc/dark.js')); ?>"></script>
+    <script src="<?php echo e(asset('trade/amc/animated.js')); ?>"></script>
+    <script src="<?php echo e(asset('trade/js/jquery.js')); ?>"></script>
+    <script src="<?php echo e(asset('trade/js/popper.min.js')); ?>"></script>
+    <script src="<?php echo e(asset('trade/bootstrap/js/bootstrap.bundle.js')); ?>"></script>
+    <script src="<?php echo e(asset('trade/bootstrap/js/bootstrap.js')); ?>"></script>
+    <script src="<?php echo e(asset('trade/js/main.js')); ?>"></script>
+    <script src="<?php echo e(asset('trade/js/amc.js')); ?>"></script>
+    <script src="<?php echo e(asset('trade/js/tv.js')); ?>"></script>
